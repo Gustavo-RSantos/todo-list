@@ -1,0 +1,13 @@
+.main {
+  background-color: #fffffc;
+  box-shadow: 0 0.10rem 0.25rem #c6e0d6;
+}
+
+.new-todo {
+  background-color: rgba(0,0,0,0.03);
+  box-shadow: inset 0 0.125rem 0.0625rem rgba(0,0,0,0.03);
+  font-size: 1.5rem;
+  font-style: italic;
+  width: 100%;
+  padding: 1rem 1rem 1.125rem 1rem;
+}
